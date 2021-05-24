@@ -1,4 +1,4 @@
-<script language="text/javascript>
+<script language="text/javascript">
 function myFunction() {
 <?php
 /* * * * Guestbook himawa Version 2.0 * site= http://himawa.wen.ru @FILE INI TIDAK USAH DI EDIT LAGI BOZ...
